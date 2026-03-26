@@ -58,7 +58,7 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  padding: 0.8rem 1rem;
+  padding: 0.8rem 1.2rem 0.8rem 1.5rem;
   background: rgba(255, 255, 255, 0.7);
   border: 1px solid rgba(255, 255, 255, 0.85);
   backdrop-filter: blur(18px);
@@ -68,6 +68,7 @@ a {
 
 .brand {
   flex-shrink: 0;
+  padding-left: 0.15rem;
 }
 
 .brand-mark {
